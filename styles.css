@@ -68,7 +68,7 @@ li {
 
 .people-list {
   text-align: center;
-  width: auto;
+  width: 100%;
   display: inline-flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -82,7 +82,7 @@ li {
 
 .single-column-people {
   text-align:center;
-  width: auto;
+  width: 100%;
   display: inline-flex;
   flex-wrap: wrap;
   justify-content: center;
