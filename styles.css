@@ -72,7 +72,7 @@ li {
   display: inline-flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  margin-bottom: 9rem;
+  margin-bottom: 6rem;
 }
 
 .people-list > li {
