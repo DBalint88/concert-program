@@ -59,11 +59,11 @@ li {
   margin-bottom: 3rem;
 }
 
-#song-titles > ul {
+.song-titles > ul {
   text-align: left;
 }
 
-#song-composers > ul {
+.song-composers > ul {
   text-align: right;
 }
 
